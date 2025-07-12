@@ -1,4 +1,4 @@
-<img src="C:\Users\BIGBITE\Desktop\nickjrdev\image/banner.png" alt="Nick Banner" style="width:100%;" />
+<img src="nickjrdev/image/banner.png" alt="Nick Banner" style="width:100%;" />
 
 # 👋🏾 Hey, I'm Nick
 
