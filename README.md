@@ -1,4 +1,4 @@
-<img src="image/Banner.png" alt="Nick Banner" style="width:100%;" />
+<img src="image/banner.png" alt="Nick Banner" style="width:100%;" />
 
 # 👋🏾 Hey, I'm Nick
 
