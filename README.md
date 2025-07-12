@@ -1,4 +1,6 @@
-<img src="image/Banner.png" alt="Nick Banner" style="width:100%;" /># 👋🏾 Hey, I'm Nick
+<img src="image/Banner.png" alt="Nick Banner" style="width:100%;" />
+
+# 👋🏾 Hey, I'm Nick
 
 🎓 IT student @ KCA University  
 💻 Java | 🌐 Spring Boot | 📱 Android Dev (learning)  
