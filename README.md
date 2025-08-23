@@ -28,7 +28,7 @@
   → Mobile product catalog app UI (first published Android design)
   
 - 📱 **Sunshine Motors**  
-  → A car and car parts sale website which I wokred on when I first started coding
+  → A car and car parts sale website which I wokred on when I first started coding  
   
 ---
 
@@ -49,10 +49,17 @@
 
 ---
 
+## ❤️ Sponsor My Work
+
+If you find my work helpful, consider supporting me!
+
+[![GitHub Sponsors](https://img.shields.io/badge/Sponsor-💖-blueviolet?style=for-the-badge&logo=github)](https://github.com/sponsors/NaijaSmith)
+[![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-yellow?style=for-the-badge&logo=buy-me-a-coffee)](https://buymeacoffee.com/naijasmith)
+
+---
+
 ## 📬 Let's Connect
 - ✉️ Email: [nicolaskariuki7@gmail.com](mailto:nicolaskariuki7@gmail.com)
 - 📱 Phone: [+254-718-501-864](+254-718-501-864)
 - 📍 Kenya | 🌍 Citizen of the Web
 - 🧠 Mantra: *“My peace is top priority, but my potential is even greater.”*
-
----
