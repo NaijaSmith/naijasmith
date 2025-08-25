@@ -48,8 +48,9 @@ A collection of **Java programming practicals** – covering fundamentals, OOP, 
 
 ## 📈 GitHub Stats
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=NaijaSmith&show_icons=true&theme=tokyonight" width="47%" /> 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NaijaSmith&theme=tokyonight" width="47%" /> 
+<p align="center"> 
+  <img src="https://github-readme-stats.vercel.app/api?username=NaijaSmith&show_icons=true&theme=tokyonight" width="47%" /> 
+ <img src="https://github-readme-streak-stats.herokuapp.com/?user=NaijaSmith&theme=tokyonight&hide_border=true" width="47%" />
 </p>
 
 ---
