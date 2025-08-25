@@ -50,7 +50,12 @@ A collection of **Java programming practicals** – covering fundamentals, OOP, 
 
 <p align="center"> 
   <img src="https://github-readme-stats.vercel.app/api?username=NaijaSmith&show_icons=true&theme=tokyonight" width="47%" /> 
- <img src="https://github-readme-streak-stats.herokuapp.com/?user=NaijaSmith&theme=tokyonight&hide_border=true" width="47%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NaijaSmith&theme=tokyonight&hide_border=true" width="47%" />
+</p>
+
+<!-- Fallback Contributions Graph -->
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=NaijaSmith&theme=tokyonight&hide_border=true&area=true" width="95%" />
 </p>
 
 ---
