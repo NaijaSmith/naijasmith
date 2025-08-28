@@ -1,4 +1,4 @@
-<img src="banner.png" alt="Nick Banner" style="width:100%;" />
+<img src="banner.png" alt="Nick Banner" width="100%" />
 
 # 👋🏾 Hey, I'm Nick
 
@@ -54,7 +54,7 @@ A collection of **Java programming practicals** – covering fundamentals, OOP, 
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=NaijaSmith&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NaijaSmith&layout=compact&theme=tokyonight" width="47%" />
 </p>
 
 ---
@@ -69,7 +69,7 @@ If you find my work helpful, consider supporting me!
 ---
 
 ## 📬 Let's Connect
-- ✉️ Email: [nicolaskariuki7@gmail.com](mailto:nicolaskariuki7@gmail.com)
-- 📱 Phone: [+254-718-501-864](+254-718-501-864)
+- ✉️ Email: [nicolaskariuki7@gmail.com](mailto:nicolaskariuki7@gmail.com)  
+- 📱 Phone: [+254-718-501-864](+254-718-501-864)  
 - 📍 Kenya | 🌍 Citizen of the Web  
 - 🧠 Mantra: *“My peace is top priority, but my potential is even greater.”*  
