@@ -53,6 +53,10 @@ A collection of **Java programming practicals** – covering fundamentals, OOP, 
   <img src="https://github-readme-streak-stats.herokuapp.com?user=NaijaSmith&theme=tokyonight&hide_border=true" width="47%" /> 
 </p>
 
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=NaijaSmith&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
+
 ---
 
 ## ❤️ Sponsor My Work
