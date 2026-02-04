@@ -35,6 +35,7 @@ Spring Boot + MySQL backend powering Resourcify APIs.
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=NaijaSmith&show_icons=true&theme=tokyonight&hide_border=true" width="48%" alt="GitHub Stats" />
 </p>
+
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=NaijaSmith&theme=tokyonight&hide_border=true" width="48%" alt="GitHub Streak" /> 
 </p>
