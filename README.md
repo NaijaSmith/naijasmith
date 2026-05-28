@@ -4,7 +4,8 @@
 
 👋🏾 Hey, I'm Nick (Nicholas Kariuki Wambui)
 
-🎓 IT Student @ KCA University | 💻 Full-Stack Java Developer | ICT Support @Thika Technical Training Institute 
+🎓 IT Student @ KCA University | 💻 Full-Stack Java Developer | ICT Support @Thika Technical Training Institute
+
 🧠 “My peace is top priority, but my potential is even greater.”
 
 👨‍💻 About Me
